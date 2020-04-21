@@ -1,0 +1,679 @@
+ID	Target	Tweet	Veracity
+1	BostonBombings	Two explosions at Boston marathon finish line	RUMOR
+2	BostonBombings	2 explosions at Boston marathon finish line http://t.co/EILgHRLrSf	RUMOR
+3	BostonBombings	#BOSTON SCANNER: Police now saying get on social media, tell people to stay away from JFK Library. #Bostonbomb LISTEN http://t.co/1PYPAVLwnE	RUMOR
+4	BostonBombings	There's now a fire at the JFK Library. Jesus. http://t.co/qjlg9nd59c #bostonmarathon #boston http://t.co/HO1FQVCwjz	RUMOR
+5	BostonBombings	HORROR EN BOSTON: Officials / There will be a controlled explosion opposite the library within one minute as part of bomb squad activities.	RUMOR
+6	BostonBombings	Confirmed explosion at the JFK library - third explosion #Boston	RUMOR
+7	BostonBombings	#BREAKING: 2 more explosives being dismantled at Boston Marathon http://t.co/AuYHZn3AQr	RUMOR
+8	BostonBombings	MORE: US official: 2 more explosives found at Boston marathon: http://t.co/KBDxuuE4kQ -CC	RUMOR
+9	BostonBombings	BREAKING: @AP reports 2 more explosive devices found at Boston Marathon, being dismantled http://t.co/YYi01uQqBJ	RUMOR
+10	BostonBombings	Officials investigating Boston Marathon explosions report finding what they believe are unexploded devices: http://t.co/rCfe7P4JyR	RUMOR
+11	BostonBombings	Boston police confirms another explosion at JFK Library #breaking	RUMOR
+12	BostonBombings	RT @ReutersUS: Boston police confirms another explosion at JFK Library #breaking	RUMOR
+13	BostonBombings	Boston police confirms another explosion at JFK Library	RUMOR
+14	BostonBombings	RT @ReutersUS: Boston police confirms another explosion at JFK Library #breaking	RUMOR
+15	BostonBombings	RT @reutersus: Boston police confirms another explosion at JFK Library #breaking	RUMOR
+16	BostonBombings	Breaking: Boston police confirm another explosion at JFK Library http://t.co/GBXkQSsuzI	RUMOR
+17	BostonBombings	Attn: Another explosion at the JFK Library. #Boston	RUMOR
+18	BostonBombings	A fire broke out inside a mechanical room at the JFK Library on Moments after the Boston Marathon explosions but not related.	RUMOR
+19	BostonBombings	Really? RT @ReutersUS: Boston police confirms another explosion at JFK Library #breaking	RUMOR
+20	BostonBombings	RT @ReutersUS: Boston police confirms another explosion at JFK Library #breaking	RUMOR
+21	BostonBombings	RT @ReutersUS: Boston police confirms another explosion at JFK Library #breaking	RUMOR
+22	BostonBombings	RT @ReutersUS: Boston police confirms another explosion at JFK Library #breaking	RUMOR
+23	BostonBombings	2 more explosive devices found by law enforcement at Boston Marathon. #prayforboston	RUMOR
+24	BostonBombings	Reuters: #Boston police confirm third explosion at JFK library	RUMOR
+25	BostonBombings	News: Boston police confirm another explosion at JFK Library. #prayforboston	RUMOR
+26	BostonBombings	RT @ReutersUS: Boston police confirms another explosion at JFK Library #breaking	RUMOR
+27	BostonBombings	UPDATE: 2 more explosive devices found at Boston Marathon; being dismantled by officials	RUMOR
+28	BostonBombings	Boston police confirms another explosion at JFK Library. via @Reuters	RUMOR
+29	BostonBombings	Boston Police confirm another explosion at JFK library: http://t.co/MX3q8YyPSs	RUMOR
+30	BostonBombings	#Breaking  Two more explosive devices found at Boston Marathon; being  dismantled ... more at http://t.co/QjJo0bleXl	RUMOR
+31	BostonBombings	Reports: Boston Marathon bombing suspect in custody? http://t.co/oPm6jZkE2M	RUMOR
+32	BostonBombings	Boston police confirm another explosion at the JFK library. #boston	RUMOR
+33	BostonBombings	Google has a person finder up for the #boston explosions http://t.co/Hmfg3yamvj	RUMOR
+34	BostonBombings	Ed Davis, Boston Police Commissioner: There has been a third incident. An explosion at the JFK library. This is ongoing event.	RUMOR
+35	BostonBombings	Boston Police say third incident: explosion at JFK Library.	RUMOR
+36	BostonBombings	Boston police confirm 3rd explosion at JFK Library #BreakingNews	RUMOR
+37	BostonBombings	There's now a fire at JFK library in #boston.  http://t.co/j1lUn9BYlD http://t.co/JU3tpDKo1q	RUMOR
+38	BostonBombings	BREAKING: Third explosion reported at the JFK Library #Boston	RUMOR
+39	BostonBombings	BOSTON POLICE CONFIRMS EXPLOSION AT JFK LIBRARY	RUMOR
+40	BostonBombings	#Boston police commissioner: THIRD explosion at #JFK Library  #USA	RUMOR
+41	BostonBombings	Looks like another bomb went off at JFK library in Boston	RUMOR
+42	BostonBombings	Ed Davis, Boston Police Commissioner, confirms there was a third explosion at JFK Library.  http://t.co/qvOQPD1KNG	RUMOR
+43	BostonBombings	Boston Police Commissioner: 3rd blast confirmed at JFK Library. #prayforboston	RUMOR
+44	BostonBombings	BREAKING: Boston police commissioner: 3rd explosion at JFK Library	RUMOR
+45	BostonBombings	Google created a person finder in the aftermath of #BostonMarathon explosions: http://t.co/rgLJY1rEh2	RUMOR
+46	BostonBombings	AP: Cell phone service has been shut down in Boston to prevent any remote detonation.	RUMOR
+47	BostonBombings	Third Explosion in Boston reported at JFK library.	RUMOR
+48	BostonBombings	Wow. Boston police commissioner confirms a 3rd explosion at JFK Library	RUMOR
+49	BostonBombings	Boston police commissioner: 3rd explosion at JFK Library. (via @ap) #BostonMarathon	RUMOR
+50	BostonBombings	Google has launched a "people finder" to assist people affected by the Boston explosions. #cbc http://t.co/P7ncYR2nnQ	RUMOR
+51	BostonBombings	BREAKING: Boston police commissioner: 3rd explosion at JFK Library, AP reports #bostonmarathon	RUMOR
+52	BostonBombings	Boston police commissioner confirms third explosion at JFK Library; unclear whether related to Boston Marathon http://t.co/aaXwyCHk3A	RUMOR
+53	BostonBombings	NewsAlert: Boston police commissioner: 3rd explosion at #Boston JFK Library (from @AP)	RUMOR
+54	BostonBombings	Boston Marathon bombing suspect believed to be in custody http://t.co/3rBuwAnMiV	RUMOR
+55	BostonBombings	BREAKING: Boston police commissioner: 3rd explosion at JFK Library / via #AP	RUMOR
+56	BostonBombings	BREAKING: Boston police commissioner: 3rd explosion at JFK Library / via #AP	RUMOR
+57	BostonBombings	Boston police commissioner says he believes 3rd blast at JFK Library is related to marathon explosions. Next briefing at 7 p.m.	RUMOR
+58	BostonBombings	“@AWilsonABC11: Boston police commissioner: "There has been a 3rd explosion at JFK Library." #ABC11 http://t.co/qdVFGQYnxY”	RUMOR
+59	BostonBombings	(AP) -- Boston police commissioner: 3rd explosion at JFK Library.	RUMOR
+60	BostonBombings	Boston police report explosion at JFK library http://t.co/BhW3lzI7Ag	RUMOR
+61	BostonBombings	3rd explosion in #Boston, this time at JFK Library. http://t.co/myEqEdiTUp	RUMOR
+62	BostonBombings	Google have created a people finder for the #Boston explosions, leave messages for friends and family http://t.co/Jnepm9brAW	RUMOR
+63	BostonBombings	Breaking: Boston police commissioner: 3rd explosion at JFK Library  http://t.co/EHpOeRNgcZ	RUMOR
+64	BostonBombings	Boston police commissioner: 3rd explosion at JFK Library  http://t.co/q1hDDyJBdx	RUMOR
+65	BostonBombings	Google has created a person finder for the Boston Marathon http://t.co/kd2yh52pjM	RUMOR
+66	BostonBombings	Google has released a tool to help locate people affected by the Boston Marathon explosions http://t.co/R4X6pymugw	RUMOR
+67	BostonBombings	Google has set up a person finder after #BostonMarathon explosions http://t.co/bgK4QDM4zJ	RUMOR
+68	BostonBombings	Boston Police confirm a 3rd explosion at the JFK Library! http://t.co/XqAH5FEdrY #bostonmarathon	RUMOR
+69	BostonBombings	Google has created a person finder for the Boston Marathon Explosions.  http://t.co/ONkvdBmV7r	RUMOR
+70	BostonBombings	NBC News: Boston Police Commissioner confirms 3rd explosion at JFK Library in Boston #BostonMarathon	RUMOR
+71	BostonBombings	.@WRKO680: Boston Police: No one injured at third explosion at JFK Library. #BostonBombing	RUMOR
+72	BostonBombings	Google rolls out Person Finder for those affected by Boston Marathon explosions http://t.co/S26qrQC5Zm	RUMOR
+73	BostonBombings	RT @BreakingNews: Google rolls out Person Finder for those affected by Boston Marathon explosions http://t.co/FqpWHrLPWJ	RUMOR
+74	BostonBombings	@SailiPardeshi @nuaym_akbar 2 bombs have gone off at the Boston marathon	RUMOR
+75	BostonBombings	#prayforboston a third bomb has gone off at the JFK library	RUMOR
+76	BostonBombings	BREAKING: Westboro Baptist Church to picket funerals of those dead by Boston Bombs! GOD SENT THE BOMBS IN FURY OVER FAG MARRIAGE! #PraiseGod	RUMOR
+77	BostonBombings	Google has created a Person Finder for those affected by the #BostonMarathon explosions. http://t.co/2AH3ysDJEh	RUMOR
+78	BostonBombings	Boston police: 3rd explosion reported at library following marathon http://t.co/K5IAsjMd1s	RUMOR
+79	BostonBombings	Google has created a Person Finder for the Boston Marathon Explosions http://t.co/nl2CVgW3Qj	RUMOR
+80	BostonBombings	Boston Police Commissioner: Third incident, explosion that occurred at the JFK library, confirmed. http://t.co/xzodf0GPKG	RUMOR
+81	BostonBombings	Google has created a people finder for the #BostonMarathon explosions. Check for loved ones here: http://t.co/IRPCSFk7Qp	RUMOR
+82	BostonBombings	Google releases Person Finder tool for those affected by Boston Marathon explosions http://t.co/5IOLxIBLC0	RUMOR
+83	BostonBombings	Google just created this PERSON FINDER tool for those affected by the #BostonMarathon today. http://t.co/AXqRTYOLDV	RUMOR
+84	BostonBombings	Video: Boston police: Third explosion at library http://t.co/YrtBH35TrH	RUMOR
+85	BostonBombings	Intelligence Officials Report Two More Explosive Devices Found At Boston Marathon http://t.co/5L3Eq9XbCD	RUMOR
+86	BostonBombings	Jesus... MT @WBCSays Westboro Baptist Church to picket funerals of those dead by Boston Bombs! GOD SENT THE BOMBS IN FURY OVER FAG MARRIAGE!	RUMOR
+87	BostonBombings	Boston Police Commissioner Ed Davis reporting fire at JFK Library not related to Boston Marathon explosion.	RUMOR
+88	BostonBombings	8 yr old child one of the dead ! #boston	RUMOR
+89	BostonBombings	Video: Boston police: Third explosion at Library http://t.co/ikl6yEfBVk	RUMOR
+90	BostonBombings	A 8 year old child one of the dead , my daughter is 8 years old this makes me sick to my stomach #boston	RUMOR
+91	BostonBombings	i'm getting teary eyed... an 8 year old boy was one of the two people who've been confirmed dead... #prayforboston	RUMOR
+92	BostonBombings	Google has launched a #BostonMarathon people finder for those worried about loved ones Spread the word http://t.co/pveSNFnGM0 #prayforboston	RUMOR
+93	BostonBombings	The sick get sicker, @WBCFliers Westboro Baptist Church to picket funerals of those dead by Boston Bombs. Somebody stop these cowards.	RUMOR
+94	BostonBombings	An 8 year old kid is dead from the bomb in Boston. He was waiting for his mom and dad to finish 😞	RUMOR
+95	BostonBombings	Try it. I dare you. RT @WBCSays: BREAKING: Westboro Baptist Church to picket funerals of those dead by Boston Bombs!	RUMOR
+96	BostonBombings	THAT 8 YEAR OLD GIRL IS NOT DEAD. THAT IS A SICK AND TWISTED RUMOR. THE ONLY DEATH WE KNOW IS AN 8 YEAR OLD BOY TRUST ME I LIVE IN BOSTON	RUMOR
+97	BostonBombings	R.I.P. to the 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids. #prayforboston http://t.co/DHEvhJb8fv	RUMOR
+98	BostonBombings	R.I.P. to the 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids. #prayforboston http://t.co/vCFuEijzN1	RUMOR
+99	BostonBombings	RIP to the 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids. #prayforboston http://t.co/yhDyrk8nOX	RUMOR
+100	BostonBombings	R.I.P. 8 year-old girl died in Boston's explosions, while running for the Sandy Hook kids. #prayforboston http://t.co/LwaRXXMRhk" &lt;/3”	RUMOR
+101	BostonBombings	R.I.P. to the 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids. #prayforboston http://t.co/lQR0rgLEQj	RUMOR
+102	BostonBombings	Disgusting.. RT @WBCSays Westboro Baptist Church to picket funerals of those dead by Boston Bombs! GOD SENT BOMBS IN FURY OVER FAG MARRIAGE!	RUMOR
+103	BostonBombings	R.I.P. to the 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids. #prayforboston http://t.co/TrngKLcaoH	RUMOR
+104	BostonBombings	My heart is breaking! :-( RT RIP to d 8yr old girl who died in Boston explosions, while running for d Sandy Hook kids http://t.co/OoAusFML9Z	RUMOR
+105	BostonBombings	R.I.P. to the 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids. #prayforboston http://t.co/epNz15KzhQ	RUMOR
+106	BostonBombings	RT R.I.P. to the 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids.  http://t.co/wrh8rL8FFA	RUMOR
+107	BostonBombings	R.I.P. to the 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids. #prayforboston http://t.co/eNkHOOwbaT	RUMOR
+108	BostonBombings	R.I.P to the 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids. Omg Im crying http://t.co/FPz0tAdi5j	RUMOR
+109	BostonBombings	R.I.P. to the 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids. #prayforboston http://t.co/F7RruzXakl	RUMOR
+110	BostonBombings	"@HopeForBoston: R.I.P. to 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids. http://t.co/akYI1CYGYx"	RUMOR
+111	BostonBombings	The 8 year old girl that died today in the Boston marathon bombing was running for the kids of sandy hook. That's fucking disgusting!	RUMOR
+112	BostonBombings	Breaking: Officials found what they believe are five additional, undetonated explosive devices in Boston area.  http://t.co/EHpOeRNgcZ	RUMOR
+113	BostonBombings	Officials found what they believe are five additional, undetonated explosive devices in Boston area.  http://t.co/q1hDDyJBdx	RUMOR
+114	BostonBombings	RT @wsj: Breaking: Officials found what they believe are 5 additional, undetonated explosive devices in Boston area.  http://t.co/yERBxEUQLp	RUMOR
+115	BostonBombings	WSJ: Officials found what they believe are five additional, undetonated explosive devices in Boston area.	RUMOR
+116	BostonBombings	RT @WSJ: Officials found what they believe are five additional, undetonated explosive devices in Boston area. http://t.co/8vHzSqbyq4	RUMOR
+117	BostonBombings	RT @BuzzFeedNews: WSJ: Officials found what they believe are five additional, undetonated explosive devices in Boston area.	RUMOR
+118	BostonBombings	BREAKING: Officials found what they believe are five additional, undetonated explosive devices in Boston http://t.co/0YgwH7BAJX	RUMOR
+119	BostonBombings	Officials believe they have found five additional, undetonated explosive devices in the Boston area.	RUMOR
+120	BostonBombings	RT @WSJ Officials found what they believe are five additional, undetonated explosive devices in Boston area.  http://t.co/PedaKfMAoq	RUMOR
+121	BostonBombings	RT @wsjbreakingnews: Officials found what they believe are 5 additional, undetonated explosives in Boston area.  http://t.co/dKDtGsvpbf	RUMOR
+122	BostonBombings	MT @WSJbreakingnews Officials found what they believe are 5 add'l undetonated explosive devices in Boston area.  http://t.co/fXtTsHY8cn	RUMOR
+123	BostonBombings	Authorities find five additional, undetonated explosive devices in Boston: @WSJ	RUMOR
+124	BostonBombings	RT @WSJ: Breaking: Officials found what they believe are 5 additional, undetonated explosive devices in Boston area.	RUMOR
+125	BostonBombings	RT @WSJ Breaking: Officials found what they believe are 5 additional, undetonated explosive devices in Boston area http://t.co/JXvLhin6Lt	RUMOR
+126	BostonBombings	#BreakingUpdate RT @wsjbreakingnews: Officials found what they believe are five additional, undetonated explosive devices in Boston area....	RUMOR
+127	BostonBombings	@WSJ reporting officials found what they believe are five additional, undetonated explosive devices in Boston area.  http://t.co/PnO8NR082z	RUMOR
+128	BostonBombings	R.I.P. to the 8 year-old girl who died in Boston's explosions while running for the Sandy Hook kids. #prayforboston http://t.co/yiTw4WUc8Z 😔	RUMOR
+129	BostonBombings	"...officials found what they believe to be five additional, undetonated explosive devices around the Boston area" http://t.co/TwB7iJnDJP	RUMOR
+130	BostonBombings	RT @WSJ Officials found what they believe are five additional, undetonated explosive devices in Boston area.  http://t.co/ZEcT0dIa7y	RUMOR
+131	BostonBombings	RIP to the 8 year old girl who was running the Boston Marathon for the Sandy Hook kids.  #prayforboston http://t.co/cpkamDUcsV	RUMOR
+132	BostonBombings	DEVELOPING:  Officials found what they believe are 5 additional, undetonated explosive devices in Boston area - @wsj http://t.co/aK1ouHjlpE	RUMOR
+133	BostonBombings	No words really RT @WSJ Breaking: Officials found what they believe are five additional, undetonated explosive devices in Boston area.	RUMOR
+134	BostonBombings	Officials Reportedly Find Five More Undetonated Explosive Devices in Boston Area.	RUMOR
+135	BostonBombings	MT @wsj: Breaking: Officials found what they believe are 5 additional, undetonated explosive devices in Boston area http://t.co/iYS07ihOAd	RUMOR
+136	BostonBombings	Five More Explosive Devices Found in Boston http://t.co/WKrCPkpCC5	RUMOR
+137	BostonBombings	DEVELOPING:  Officials found what they believe are 5 additional, undetonated explosive devices in Boston area - @wsj http://t.co/kQ0onWzbSi	RUMOR
+138	BostonBombings	Scary stuff RT @wsj Officials found what they believe are 5 additional, undetonated explosive devices in Boston area http://t.co/nMq1QLqLy8	RUMOR
+139	BostonBombings	Counter terrorism officials find five additional undetonated explosive devices in Boston http://t.co/BbDZAruHwA via @WSJ	RUMOR
+140	BostonBombings	RIP 2 the 8 yearold girl who died in Boston's explosions, while running for the Sandy Hook kids. http://t.co/qkojPH1Cm7”THIS IS WAT KILLS ME	RUMOR
+141	BostonBombings	RIP to the 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids #prayforboston http://t.co/KeMrmEWjEN	RUMOR
+142	BostonBombings	oh my RT @WSJ: Officials found what they believe are 5 additional, undetonated explosive devices in Boston area. http://t.co/lUr5ZBp9u7	RUMOR
+143	BostonBombings	R.I.P. to the 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids. #prayforboston http://t.co/PP4I8QKRNa”	RUMOR
+144	BostonBombings	what the… 5 more?! RT@WSJ: Officials found what they believe r 5 additional, undetonated explosive devices in Boston http://t.co/6W8Tq7m4pE	RUMOR
+145	BostonBombings	Counterterrorism officials found what they believe to be five additional, undetonated explosive devices around the Boston area.	RUMOR
+146	BostonBombings	Officials found what they believe are five additional, undetonated explosive devices in #Boston area #BostonMarathon	RUMOR
+147	BostonBombings	Report: Officials have found what they believe to be five additional, undetonated explosive devices around Boston. http://t.co/3ejjB64Sqe	RUMOR
+148	BostonBombings	RIP to the 8 year old girl who died in the Boston explosion while running for sandy hook kids RETWEET FOR RESPECT http://t.co/PcGCERdctt	RUMOR
+149	BostonBombings	Oh my! MT @WSJ: Officials found what they believe are five additional, undetonated explosive devices in Boston area.  http://t.co/P3acE9eXjv	RUMOR
+150	BostonBombings	R.I.P. to the 8 year-old boy who died in Boston's explosions, while running for the Sandy Hook kids. #prayforboston http://t.co/3glz5iY2Zq	RUMOR
+151	BostonBombings	RIP to the 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids. #prayforboston	RUMOR
+152	BostonBombings	R.I.P. to the 8 year-old boy who died in Boston's explosions, while running for the Sandy Hook kids. #prayforboston http://t.co/e0QsPZWC0X	RUMOR
+153	BostonBombings	WSJ: Five undetonated explosive devices found in Boston area http://t.co/fuje5tDROy	RUMOR
+154	BostonBombings	R.I.P. to the 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids #PrayForBoston http://t.co/hFAIz0I6i3	RUMOR
+155	BostonBombings	R.I.P. to the 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids. #prayforboston http://t.co/asJOAAqoto	RUMOR
+156	BostonBombings	R.I.P. to the 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids. #prayforboston http://t.co/wNfDD4Vvna.	RUMOR
+157	BostonBombings	R.I.P. to the 8 year-old girl who died in Boston's explosion, while running for the Sandy Hook kids. #prayforboston http://t.co/plCvZ1CzU1	RUMOR
+158	BostonBombings	RIP to 8 year old girl who died in Boston Marathon violence while running for Sandy Hook Kids: https://t.co/g2QHK6I1Qv	RUMOR
+159	BostonBombings	R.I.P. to the 8 year-old girl who died in Boston's explosion, while running for the Sandy Hook kids. #prayforboston http://t.co/YJjTo57LOO	RUMOR
+160	BostonBombings	A beautiful 8 year old little girl died today running in the marathon for the Sandy Hook elementary school kids, so so sad #prayforboston	RUMOR
+161	BostonBombings	R.I.P to the 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids. #prayforboston http://t.co/iC2yA6Ffa3”😭	RUMOR
+162	BostonBombings	R.I.P. To The 8 Year-Old Girl Who Died In Boston's Explosions, While Running For The Sandy Hook Kids. #PrayForBoston http://t.co/X0Xqj8wk8I	RUMOR
+163	BostonBombings	R.I.P. to the 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids. #prayforboston http://t.co/0e7HCtG98W	RUMOR
+164	BostonBombings	I'm really disappointed. An 8 year old boy dreamed of finishing the Boston Marathon and was killed right before he crossed the finish line.	RUMOR
+165	BostonBombings	"RIP to the 8 year old girl who died in Boston's explosions, while running for the Sandy Hook kids. #prayforboston http://t.co/kWVtxNTVxo "	RUMOR
+166	BostonBombings	Lord bless her soul, poor baby was killed in the Boston Marathon while running for the Sandy Hooks kids http://t.co/t4tEa1FVIm	RUMOR
+167	BostonBombings	An 8 year old girl died at the Boston Marathon today because she was running for the Sandy Hook kids... What has this world come to?	RUMOR
+168	BostonBombings	Westboro Baptist Church Plans To Picket Funerals Of Boston Marathon Victims - http://t.co/4b7lqzL7Gu #BostonMarathon #WBCPickets	RUMOR
+169	BostonBombings	R.I.P2the 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids. #prayforboston http://t.co/guFBcRhARE	RUMOR
+170	BostonBombings	R.I.P. to the 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids. #prayforboston http://t.co/QNtrDKVOrb”	RUMOR
+171	BostonBombings	“Westboro Baptist Church to picket funerals of those dead by Boston Bombs! GOD SENT THE BOMBS IN FURY OVER FAG MARRIAGE!" Seriously? ._.	RUMOR
+172	BostonBombings	that last retweet breaks my heart. the 8-year old girl that died was running for the Sandy Hook kids. #prayforboston	RUMOR
+173	BostonBombings	My heart literally breaks knowing an 8 year old was killed in Boston today running for the sandy hook kids.	RUMOR
+174	BostonBombings	@AlexSensation R.I.P. to the 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids. http://t.co/XRwbg3HrMR	RUMOR
+175	BostonBombings	R.I.P to the 8 year old girl who died in Boston's explosions, while running for Sandy Hook kids &gt;:/ #PrayForBoston http://t.co/EUGUcgww2F	RUMOR
+176	BostonBombings	R.I.P. to the 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids #PrayForBoston http://t.co/koOomCUWqA"	RUMOR
+177	BostonBombings	The utterly disgusting Westboro Baptist Church planning to picket funerals of the Boston bombing victims. Sadly, not at all surprising.	RUMOR
+178	BostonBombings	Awh apparently an eight year old died in the explosion today in Boston running for the sandy hook kids	RUMOR
+179	BostonBombings	R.I.P. to the 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids. http://t.co/46aNPYlwf1	RUMOR
+180	BostonBombings	Im seriously gonna cry. This 8 year-old girl died in Boston's explosions running for the Sandy Hook kids &lt;/3 http://t.co/XK2XyAXLWS	RUMOR
+181	BostonBombings	R.I.P. to the 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids. :'(	RUMOR
+182	BostonBombings	R.I.P. to the 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids. #prayforboston http://t.co/RuXvc2bbV6"	RUMOR
+183	BostonBombings	Westboro Baptist Church says it will protest the funerals of those killed in the Boston Marathon. Blames bombings on gay marriage.	RUMOR
+184	BostonBombings	R.I.P. to the 8 year-old girl who died in Boston's explosion, while running for the Sandy Hook kids. #prayforboston http://t.co/4eCmorUoSu	RUMOR
+185	BostonBombings	R.I.P. to the 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids. #prayforboston http://t.co/53l8d5Bbeh	RUMOR
+186	BostonBombings	Westboro Baptist Church threatens to picket funerals of those slain at the Boston Marathon http://t.co/VEY0jshm0o	RUMOR
+187	BostonBombings	R.I.P. to the 8 yr old boy who died in Boston's explosions, while running for the Sandy Hook kids. http://t.co/yWHbs48gK2	RUMOR
+188	BostonBombings	R.I.P. to the 8 year-old boy who died in Boston's explosions, while running for the Sandy Hook kids. #prayforboston http://t.co/O2Xffjf2VA	RUMOR
+189	BostonBombings	Just heard that an 8 year old was killed in the Boston bombing who was running for the Sandy Hook kids. I can't even wrap my head around it.	RUMOR
+190	BostonBombings	R.I.P. to the 8 yr old boy who died in Boston's explosions, while running for the Sandy Hook kids. #prayforbostoN http://t.co/1QAoctB5gT	RUMOR
+191	BostonBombings	Westboro baptist church is going to picket funerals of people killed in Boston today. Someone return the favor to them #scumbags	RUMOR
+192	BostonBombings	RIP to the 8 year old girl who died in the Boston explosion today, while running for the sandy hook kids. 🙏👼😥 http://t.co/ESx2LK8fK1	RUMOR
+193	BostonBombings	RIP to the 8 year old girl who died in the Boston explosion today, while running for the sandy hook kids. 🙏👼😥 http://t.co/uPHxjt1v70”	RUMOR
+194	BostonBombings	Thank God for the Boston Marathon Bombs! Westboro Baptist Church to picket funerals of those killed. cc: @BostonGlobe http://t.co/CjvUQOz1zv	RUMOR
+195	BostonBombings	R.I.P. to the 8 year-old boy who died in Boston's explosions, while running for the Sandy Hook kids. #prayforboston http://t.co/NqK8z4k09v	RUMOR
+196	BostonBombings	R.I.P. to the 8 year-old girl who died in Boston's explosion, while running for the Sandy Hook kids. #prayforboston http://t.co/ikAmj8Vfzf	RUMOR
+197	BostonBombings	R.I.P. to the 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids. http://t.co/ARPRUy0gim”this is so sad	RUMOR
+198	BostonBombings	R.I.P. to the 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids. #prayforboston http://t.co/oslPzFHYgr	RUMOR
+199	BostonBombings	R.I.P. to the 8 year-old girl who died in Boston's explosions,while running for the Sandy Hook kids. #prayforboston http://t.co/Hazv54zjUi	RUMOR
+200	BostonBombings	R.I.P. to the 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids. #PRAYFORBOSTON http://t.co/XdLyJKhX2o	RUMOR
+201	BostonBombings	Westboro Baptist church plans to picket the funerals to those lost today in Boston. Worthless humans are in that church. WORTHLESS	RUMOR
+202	BostonBombings	8 year old girl running for Sandy Hook kids died in the Boston explosion today. Rest in Peace. #OnlyTheGoodDieYoung http://t.co/zmGpT19YTm	RUMOR
+203	BostonBombings	R.I.P. to the 8 yr old boy who died in Boston's explosions, while running for the Sandy Hook kids. #prayforboston http://t.co/fUwIMJOhOP	RUMOR
+204	BostonBombings	RIP to the 8 year old girl who died in the Boston explosion running for Sandy Hook kids.	RUMOR
+205	BostonBombings	“@WBCSays: Westboro Baptist Church to picket funerals of dead by Boston Bombs! GOD SENT THE BOMBS OVER FAG MARRIAGE!" What a fucking joke	RUMOR
+206	BostonBombings	This is disgusting ..... --&gt; Westboro Baptist Church Plans To Picket Funerals Of Boston Marathon Victims... http://t.co/jCascHc7F6	RUMOR
+207	BostonBombings	8 yr old boy who was killed was waiting for his father to finish the boston marathon. His mother and sister were also injured. May he RIP.	RUMOR
+208	BostonBombings	R.I.P. to the 8 year-old girl who died in Boston's explosions while running for the Sandy Hook kids. #prayforboston http://t.co/C6XglR4VtC	RUMOR
+209	BostonBombings	R.I.P to the 8 year old girl who died in Boston's explosions, while running for Sandy Hook kids &gt;:/ #PrayForBoston http://t.co/QHv8iHaCbs	RUMOR
+210	BostonBombings	R.I.P. to the 8 year-old girl who died in Boston's explosions while running for the Sandy Hook kids. #prayforboston http://t.co/TQ3N0SiPe0	RUMOR
+211	BostonBombings	WATCH: ‘Suspicious’ driver leads police, FBI to home in Revere, Mass. following Boston terror attack http://t.co/TqlaLBEYB4 jh	RUMOR
+212	BostonBombings	R.I.P. to the 8 year old girl who died in Boston’s explosions, while running for the Sandy Hook kids #PrayForBoston http://t.co/2ReUUycUAp	RUMOR
+213	BostonBombings	R.I.P. to the 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids. #prayforboston http://t.co/ZuCpIS2h3I	RUMOR
+214	BostonBombings	2 explosions at the finish line #prayforboston	RUMOR
+215	BostonBombings	R.I.P. to the 8 year-old boy who died in Boston's explosions, while running for the Sandy Hook kids. http://t.co/1hIr0PjYxV"	RUMOR
+216	BostonBombings	Nitwit dopes. rt @TheMatthewKeys: ... Westboro Baptist Church says it will picket funerals of those killed by Boston Marathon bombs.	RUMOR
+217	BostonBombings	An 8 year old boy was killed in the Boston bombing as he waited to cheer on his father at the finish line. My heart is broken.	RUMOR
+218	BostonBombings	An 8 year old girl died in the Boston explosions while doing it for the kids that died in Sandy Hook #disgusting	RUMOR
+219	BostonBombings	Westboro Baptist Church threatens to picket funerals of those slain at the Boston Marathon http://t.co/rY5y7AsWtX	RUMOR
+220	BostonBombings	Westboro Baptist Church (@WBCsays) says it will picket funerals of those who died in Boston Marathon bomb attacks: http://t.co/A4CS0KI2tZ	RUMOR
+221	BostonBombings	Oh, for the love of.. RT @AnonOpsLegion: Westboro Baptist Church says it will picket funerals of Boston victims. #boston  | via  ‏@Timcast	RUMOR
+222	BostonBombings	RT @lovebrittannny: RIP to the 8 year-old girl who died in Boston's explosions while running for the Sandy Hook kids. http://t.co/TC1xwXJRyo	RUMOR
+223	BostonBombings	Westboro Baptist Church to protest funerals of those killed in Boston bombing  (Photos) http://t.co/19XLJBTCQb I fucking hate them.	RUMOR
+224	BostonBombings	Westboro Baptist is planning on protesting the funerals of the two people killed by the Boston Marathon bombs. I'm fucking speechless.	RUMOR
+225	BostonBombings	R.I.P. to the 8 yr old boy who died in Boston's explosions, while running for the Sandy Hook kids. #prayforboston :( http://t.co/avB4D2PZQK	RUMOR
+226	BostonBombings	R.I.P. to the 8 year-old girl who died in Boston's explosions, while running for the Sandy Hook kids #prayforboston http://t.co/2rQmTs7NT5	RUMOR
+227	BostonBombings	Happy to announce that 1D World Boston is now open! Follow @1DWorldMerch for details! #1DWorldBoston 1DHQ x	NON-RUMOR
+228	BostonBombings	Bomb at #Boston #marathon finish. http://t.co/6ppZ0Rxs3M	NON-RUMOR
+229	BostonBombings	Very sad to hear the news coming out of Boston. Horrific. My thoughts and prayers to all those involved	NON-RUMOR
+230	BostonBombings	Praying for everyone at the Boston Marathon.	NON-RUMOR
+231	BostonBombings	Please reach out if you hear that @joeymcintyre is ok!!!!!  Please say a prayer for everyone in Boston!	NON-RUMOR
+232	BostonBombings	Thoughts with everyone at the Boston Marathon.	NON-RUMOR
+233	BostonBombings	Prayers to Boston right now.	NON-RUMOR
+234	BostonBombings	Our thoughts are with everyone at the Boston Marathon today.	NON-RUMOR
+235	BostonBombings	Sending prayers to Boston.	NON-RUMOR
+236	BostonBombings	My thoughts are with Boston. One of my favorite cities in the world. Stay strong &lt;3	NON-RUMOR
+237	BostonBombings	Sending our thoughts and prayers to Boston. Praying all my friends and their loved ones are safe	NON-RUMOR
+238	BostonBombings	Boston be strong.	NON-RUMOR
+239	BostonBombings	We're sending our thoughts and prayers to everyone in Boston today #PrayForBoston	NON-RUMOR
+240	BostonBombings	Thoughts are in Boston. #prayforboston	NON-RUMOR
+241	BostonBombings	Praying for everyone in Boston. Really hope everyone is safe out there.	NON-RUMOR
+242	BostonBombings	My thoughts and prayers are with everyone in Boston today.	NON-RUMOR
+243	BostonBombings	Our prayers go out to everyone in Boston.  We all love you and we are praying for you	NON-RUMOR
+244	BostonBombings	Thoughts &amp; Prayers go out to the people of Boston... Very Sad News.	NON-RUMOR
+245	BostonBombings	Sending prayers out for Boston	NON-RUMOR
+246	BostonBombings	Prayers go out to everyone in Boston right now!	NON-RUMOR
+247	BostonBombings	OMG! So tragic! Be strong Boston... My love thoughts and prayers are all coming your way...	NON-RUMOR
+248	BostonBombings	Sending my thoughts and prayers to everyone in Boston right now....	NON-RUMOR
+249	BostonBombings	I hope everyone in Boston is okay...   http://t.co/baG9Ni2yM1	NON-RUMOR
+250	BostonBombings	#Prayforboston this photo says it all http://t.co/rIX1Qgi4kY	NON-RUMOR
+251	BostonBombings	Our thoughts and prayers go out to everyone in the great city of Boston right now. #staysafe	NON-RUMOR
+252	BostonBombings	Sending prayers to the beautiful city of Boston! We are with you! Enviando oraciones a la bella ciudad de Boston! Estamos con ustedes!	NON-RUMOR
+253	BostonBombings	Prayers. For. Boston. 🙏	NON-RUMOR
+254	BostonBombings	prayers go out to everyone in Boston.  We all love you and we are praying for you	NON-RUMOR
+255	BostonBombings	Thoughts and prayers are with those in Boston today.	NON-RUMOR
+256	BostonBombings	just heard about boston, I hate hearing about things like this, makes me sad. #prayforboston	NON-RUMOR
+257	BostonBombings	Terrible tragedy in Boston today. So sad &amp; scary. My thoughts &amp; prayers are with everyone there. 🙏❤	NON-RUMOR
+258	BostonBombings	Boston. Love and prayers.	NON-RUMOR
+259	BostonBombings	Wow. Boston. You're in my prayers. What is this world coming to?!! 😔	NON-RUMOR
+260	BostonBombings	@Pink Thank you for your support! Here's how people can donate blood: http://t.co/67lxt3NERz #PrayForBoston	NON-RUMOR
+261	BostonBombings	My heart and prayers go out to everyone at the Boston Marathon. I love you.	NON-RUMOR
+262	BostonBombings	My prayers and thoughts go out to everyone in Boston	NON-RUMOR
+263	BostonBombings	Shaken… My thoughts and prayers are with the city of Boston and those affected by this tragedy.	NON-RUMOR
+264	BostonBombings	Sometimes people really suck. Love you, Boston--my hometown. "@brm90: Bomb at #Boston #marathon finish. http://t.co/wqRcQuMfHJ"	NON-RUMOR
+265	BostonBombings	Boston my mind is on you	NON-RUMOR
+266	BostonBombings	Sending prayers to Boston..	NON-RUMOR
+267	BostonBombings	#prayforboston so horrible:(	NON-RUMOR
+268	BostonBombings	The world is an evil place,but I watch first responders and can't help but smile and be proud to be an American #Godblessusa #prayforboston	NON-RUMOR
+269	BostonBombings	“@_BostonMarathon: For every retweet we receive we will donate $1.00 to the #BostonMarathon victims #PrayForBoston” This is just horrific	NON-RUMOR
+270	BostonBombings	I hope everyone in Boston are safe	NON-RUMOR
+271	BostonBombings	Our thoughts and prayers are with everyone in Boston. #BostonMarathon	NON-RUMOR
+272	BostonBombings	Prayers to everybody at Boston marathon 🙏🙏🙏	NON-RUMOR
+273	BostonBombings	It's terrifying how evil some people can be. #PrayForBoston	NON-RUMOR
+274	BostonBombings	#PrayForBoston My condolences to the victims and their families. I'm praying for them x	NON-RUMOR
+275	BostonBombings	Things like this are something nobody should even have to worry about in the first place, so so sad. #PrayForBoston.	NON-RUMOR
+276	BostonBombings	God bless Boston everyone #whatthehelliswrongwiththisworld	NON-RUMOR
+277	BostonBombings	Praying for Boston...can't believe this	NON-RUMOR
+278	BostonBombings	#prayforboston people are cunts i hate this planet	NON-RUMOR
+279	BostonBombings	Praying for those at the boston marathon today	NON-RUMOR
+280	BostonBombings	This world is a crazy and sick twisted place. Prayers go out to affected in Boston #prayforboston http://t.co/5Qab6nE8An	NON-RUMOR
+281	BostonBombings	this is so devastating. #PrayForBoston http://t.co/0vUf2ryX1Y	NON-RUMOR
+282	BostonBombings	So sad for Boston , my thoughts are with the victims	NON-RUMOR
+283	BostonBombings	My thoughts and prayers are with everyone in the city of Boston and all of those affected by this terrible incident.	NON-RUMOR
+284	BostonBombings	Our thoughts and prayers are with everyone affected by the tragedy in Boston today.	NON-RUMOR
+285	BostonBombings	I am crying... #prayforboston http://t.co/3MtB8dURQk	NON-RUMOR
+286	BostonBombings	God bless all people in boston and help all affected	NON-RUMOR
+287	BostonBombings	Thoughts &amp; prayers go out to all affected by this terrible tragedy at the Boston Marathon. Very sad news.	NON-RUMOR
+288	BostonBombings	I've spent a lot of time in Boston so it holds a special place in my heart...so my heart goes out to all affected by this tragedy.	NON-RUMOR
+289	BostonBombings	Security increased in New York and Washington following the explosions at the Boston Marathon: http://t.co/e8r9yNNZKr	NON-RUMOR
+290	BostonBombings	Smh hate when shit like this happens #PrayForBoston	NON-RUMOR
+291	BostonBombings	sending love to boston	NON-RUMOR
+292	BostonBombings	Tragedy should never follow triumph. Very sad day. My friends and I are all okay, thank you everyone for all your prayers and love. #boston	NON-RUMOR
+293	BostonBombings	If you're in Boston and can donate blood: http://t.co/EP1FIHDS3s	NON-RUMOR
+294	BostonBombings	Thoughts and prayers go out to victims of the Boston Marathon. #PrayForBoston	NON-RUMOR
+295	BostonBombings	Praying and thinking of Boston	NON-RUMOR
+296	BostonBombings	Our hearts are heavy with the news out of Boston today. #PrayforBoston	NON-RUMOR
+297	BostonBombings	boston. 💔🙏	NON-RUMOR
+298	BostonBombings	Thoughts &amp; prayers go out to Boston. #prayforboston	NON-RUMOR
+299	BostonBombings	Hideous news in Boston... My heart goes out to the families... :( xxxx	NON-RUMOR
+300	BostonBombings	At times like this it's easy to let your hate rise, this is a moment we must all reflect &amp; send nothing but love &amp; light to Boston.	NON-RUMOR
+301	BostonBombings	#prayforboston thoughts are with you...	NON-RUMOR
+302	BostonBombings	all love to boston.	NON-RUMOR
+303	BostonBombings	Heartbroken for Boston. I don't understand...	NON-RUMOR
+304	BostonBombings	What is happening to this world? #prayforboston http://t.co/8ze0mbB8ME	NON-RUMOR
+305	BostonBombings	I just heard about Boston. My prayers are with you, and am deeply saddened, god bless everyone	NON-RUMOR
+306	BostonBombings	She is an innocent person. Gosh.. What's wrong with this world. #prayforboston http://t.co/BOeSB7WGaB	NON-RUMOR
+307	BostonBombings	IN BOSTON: He ran in dedication of the newtown kids and now he won't ever walk again #prayforboston http://t.co/NVfoPRk12Y	NON-RUMOR
+308	BostonBombings	My prayers are with those in the Boston area 🙏	NON-RUMOR
+309	BostonBombings	this boston situation makes me hate people even more than i already do. so mad.	NON-RUMOR
+310	BostonBombings	Don't see how the NHL could play in Boston tonight -- morally, emotionally or logistically.	NON-RUMOR
+311	BostonBombings	Hope everyone in Boston is ok. :(	NON-RUMOR
+312	BostonBombings	My thoughts and prayers go out to those in Boston.	NON-RUMOR
+313	BostonBombings	Our thoughts and prayers are with the victims of today's tragedy in Boston.	NON-RUMOR
+314	BostonBombings	RT @MittRomney Our hearts are heavy with the news out of Boston today. #PrayforBoston	NON-RUMOR
+315	BostonBombings	Shocking &amp; devastating news #prayforboston	NON-RUMOR
+316	BostonBombings	Can't believe what's going on in Boston. Awful	NON-RUMOR
+317	BostonBombings	Just hearing about #BostonMarathon! So devastating.. :( http://t.co/dlYv5y1oVP …	NON-RUMOR
+318	BostonBombings	Oh my God... Please save Boston this is just insane....	NON-RUMOR
+319	BostonBombings	Wow. My thoughts and prayers are with all of Boston.	NON-RUMOR
+320	BostonBombings	Damn.... My prayers go to Boston	NON-RUMOR
+321	BostonBombings	Thoughts and prayers are with everyone in Boston and their friends and families.	NON-RUMOR
+322	BostonBombings	My heart and thoughts and prayers go out to all those at the Boston Marathon...	NON-RUMOR
+323	BostonBombings	I hate waking up &amp; seeing bad news on tv. Prayers go out to Boston &amp; the injured.	NON-RUMOR
+324	BostonBombings	Prayers for Boston. Patriots Pride.	NON-RUMOR
+325	BostonBombings	My heart belongs to Boston today…sending prayers &amp; angels	NON-RUMOR
+326	BostonBombings	Thoughts &amp; Prayers go out to the people of Boston #prayforboston	NON-RUMOR
+327	BostonBombings	One thing yah don't do is fahk with Boston	NON-RUMOR
+328	BostonBombings	He ran in dedication of the Newtown kids and now he won't ever walk again #PrayforBoston 😢 http://t.co/RrI0SQxFvQ	NON-RUMOR
+329	BostonBombings	Team: If you're here in Boston, please be smart &amp; safe. Everyone else, thank you for your support. Even today we are strong. #BostonMarathon	NON-RUMOR
+330	BostonBombings	The thoughts of all at Liverpool Football Club are tonight with the people of Boston and those affected by the explosions today.	NON-RUMOR
+331	BostonBombings	Prayers going out to Boston right now	NON-RUMOR
+332	BostonBombings	I'm crying #BostonMarathon #prayforboston http://t.co/YXkJU5Fd0z	NON-RUMOR
+333	BostonBombings	The world man...I tell ya.. Smh #PrayForBoston.	NON-RUMOR
+334	BostonBombings	Our hearts go out to all those who are affected by this senseless tragedy #prayforboston	NON-RUMOR
+335	BostonBombings	NHL does the only thing to do: postpones tonight's Ottawa and Boston game...	NON-RUMOR
+336	BostonBombings	So many unspeakable tragedies! My heart, love and prayers go out to anyone affected by the sad events in Boston. #PrayForBoston	NON-RUMOR
+337	BostonBombings	- My heart is going out to everyone in Boston right now.	NON-RUMOR
+338	BostonBombings	Google has created a Person Finder for the Boston Marathon: http://t.co/EfehvmtIDw	NON-RUMOR
+339	BostonBombings	My prayers and thoughts to all of Boston.	NON-RUMOR
+340	BostonBombings	Sending my prayers to everyone in Boston right now. I hope all of u out there are safe!!	NON-RUMOR
+341	BostonBombings	god bless #Boston today. Please make this end	NON-RUMOR
+342	BostonBombings	My heart goes out to everyone in Boston #prayforboston	NON-RUMOR
+343	BostonBombings	If you want to donate blood- Boston Blood Donation Center 74 Tremont St, Boston, MA 02116 Phone:(800) 733-2767	NON-RUMOR
+344	BostonBombings	Love and prayers to Boston.	NON-RUMOR
+345	BostonBombings	Praying for everyone in Boston	NON-RUMOR
+346	BostonBombings	Here's Google's Boston Marathon person finder: http://t.co/QsEhfCLkKX	NON-RUMOR
+347	BostonBombings	So sad to wake up to see the news from Boston. Thoughts are with everyone involved and the families.	NON-RUMOR
+348	BostonBombings	Please pray for everyone in Boston right now. This is terrible!	NON-RUMOR
+349	BostonBombings	Deeply saddened with the news on such a celebrated day of running. Sending lots of courage to all in Boston.	NON-RUMOR
+350	BostonBombings	My thoughts and condolences are with you at this time Boston #PrayForBoston	NON-RUMOR
+351	BostonBombings	BREAKING: Cellphone service has been shut down in the Boston area "to prevent any potential remote detonations of explosives." -	NON-RUMOR
+352	BostonBombings	wow...breaks my heart. #prayforboston	NON-RUMOR
+353	BostonBombings	PLEASE RT AND SPREAD THIS. You could save a life!! #prayforboston http://t.co/zPIck0oV9K	NON-RUMOR
+354	BostonBombings	Praying for everyone in Boston x	NON-RUMOR
+355	BostonBombings	People of Ireland are thinking of you Boston.	NON-RUMOR
+356	BostonBombings	Prayers to everyone in Boston.	NON-RUMOR
+357	BostonBombings	Love and thoughts with everyone in Boston. Look after yourselves and each other xxxx	NON-RUMOR
+358	BostonBombings	Thoughts and prayers to Boston, to the victims and their families. Sending you love and light.	NON-RUMOR
+359	BostonBombings	Im praying for Kobe, Boston can wait	NON-RUMOR
+360	BostonBombings	So shocked and saddened to hear about the tragedy in Boston today. My heart and thoughts are with you.	NON-RUMOR
+361	BostonBombings	This guy ran to help people's life's and now he won't be able to in again.. Can't belive this  #prayforboston http://t.co/j1CYgKXtpp	NON-RUMOR
+362	BostonBombings	Can't believe what happened in Boston. #prayforboston	NON-RUMOR
+363	BostonBombings	Boston, and all Marathoners....we lift you up to the Most High! Though evil lurks at every turn...we trust in The Lord, our Great Comforter.	NON-RUMOR
+364	BostonBombings	My thoughts go out to everyone affected in Boston.	NON-RUMOR
+365	BostonBombings	Most dramatic video of first explosion at marathon finish: http://t.co/gbexBYAYEV	NON-RUMOR
+366	BostonBombings	Welcome to the Police State in Boston.	NON-RUMOR
+367	BostonBombings	My thoughts are with you Boston.	NON-RUMOR
+368	BostonBombings	Stay strong Boston our prayers are with you...	NON-RUMOR
+369	BostonBombings	Pray for Boston!!! :(	NON-RUMOR
+370	BostonBombings	Boston's a great city full of strong people. Support one another. Love you all.	NON-RUMOR
+371	BostonBombings	Thoughts and prayers to Boston and also to those going though less popular tragedies today	NON-RUMOR
+372	BostonBombings	Our thoughts and prayers are with all those affected by the devastating events in Boston.	NON-RUMOR
+373	BostonBombings	Our hearts are in Boston today. Sincere condolences to those affected by today’s Boston Marathon tragedy. #PrayforBoston	NON-RUMOR
+374	BostonBombings	My thoughts are with everyone in Boston right now! :( #prayersforboston	NON-RUMOR
+375	BostonBombings	Just heard the horrible news of what happend in Boston. My prayers and well wishes go out to all affected by this tragedy.	NON-RUMOR
+376	BostonBombings	Sickened and saddened!! Thoughts go to everyone affected in Boston !! Stop this world. I want off #PrayforBoston	NON-RUMOR
+377	BostonBombings	Boston 🙏🙌🙏 ❤🙏❤ 👼 🌎 👼	NON-RUMOR
+378	BostonBombings	RT @thewanted: Our hearts go out to all those who are affected by this senseless tragedy #prayforboston	NON-RUMOR
+379	BostonBombings	Boston Google person finder http://t.co/zry83qw4hZ	NON-RUMOR
+380	BostonBombings	YOU MIGHT JUST SKIP THIS TWEET BUT YOUR RISKING SOMEONE'S LIFE, RT AND SPREAD THE WORD! YOUR CHOICE! #PrayForBoston http://t.co/M7GNObIA6l	NON-RUMOR
+381	BostonBombings	My thoughts go out to everybody in Boston, so so terrible :( x	NON-RUMOR
+382	BostonBombings	Sending all my love &amp; so many prayers for Boston.	NON-RUMOR
+383	BostonBombings	I am about over days like today. I want my America back. Love one another and look out for your neighbor. Thoughts &amp; prayers with Boston.	NON-RUMOR
+384	BostonBombings	Anybody else notice this guy? #prayforboston http://t.co/bRSP065Fzd	NON-RUMOR
+385	BostonBombings	"April 15th = titanic sunk,  April 15th= hillsbourgh disaster April 15th= boston bombings" WHAT?	NON-RUMOR
+386	BostonBombings	Secret Service expands security at White House following Boston Marathon explosions:  http://t.co/ZS5TlmfRDH -CC	NON-RUMOR
+387	BostonBombings	Sending peace &amp; many blessings to Boston ❤❤❤	NON-RUMOR
+388	BostonBombings	april 15th = titanic sunkapril 15th= hillsbourgh disaster april 15th= boston bombings	NON-RUMOR
+389	BostonBombings	Thinking about everyone in Boston.	NON-RUMOR
+390	BostonBombings	What the heck what's up with Boston?!?!? I'm so confused! 😳	NON-RUMOR
+391	BostonBombings	So saddened by the tragedy in Boston.. what a broken world. #PrayforBoston	NON-RUMOR
+392	BostonBombings	My thoughts and prayers go out to everyone in Boston. Lost for words. Thinking of you all xxx	NON-RUMOR
+393	BostonBombings	My heartfelt love goes out to those affected by today's tragedy in Boston. All of our thoughts are with you. #loveintothelight	NON-RUMOR
+394	BostonBombings	April 15th = titanic sunk April 15th = hillsborough disaster April 15th = Boston bombings	NON-RUMOR
+395	BostonBombings	Peace &amp; prayers to all hurt in #Boston Stick together &amp; love one another. Our thoughts are with u...	NON-RUMOR
+396	BostonBombings	Much love to all of you out here right now in Boston! My thoughts go out to all of you	NON-RUMOR
+397	BostonBombings	@justinbieber  #PrayforBoston  so so sad what's happening with this world.makes me cry right now,only you could put a smile on my face	NON-RUMOR
+398	BostonBombings	Are you a Boston Marathoner who needs a play to stay? http://t.co/NMidnmUOgL Have a place to offer runners? http://t.co/WNE3QAtXEm	NON-RUMOR
+399	BostonBombings	Plz RT: Call 1-800-985-5990 or text TalkWithUs to 66746 24/7 for immediate crisis counseling during #Boston tragedy. http://t.co/hXzg1wyc0g	NON-RUMOR
+400	BostonBombings	Love and prayers for Boston	NON-RUMOR
+401	BostonBombings	Praying for all those injured and families of lost ones in Boston. Praying for #healing &amp; #encouragement	NON-RUMOR
+402	BostonBombings	I was supposed to fly to Boston today got delayed a week last minute.  Crazy.	NON-RUMOR
+403	BostonBombings	Ah jeez, just heard about Boston. What the hell. Who would do that	NON-RUMOR
+404	BostonBombings	President Obama will address the Boston explosions at 6:00pm ET.	NON-RUMOR
+405	BostonBombings	Dear Boston.  Hugs.	NON-RUMOR
+406	BostonBombings	#Repost @letoyaluckett .. PLEASE pray for Boston 🙏 http://t.co/ukGDhDTS9D	NON-RUMOR
+407	BostonBombings	My thoughts and prayers are with the victims in Boston http://t.co/d3AnhBBjjp	NON-RUMOR
+408	BostonBombings	RETWEET!!! #PRAYFORBOSTON http://t.co/J7MEJGYChF	NON-RUMOR
+409	BostonBombings	Such heartbreaking news from Boston. Sending our love to everyone affected. X	NON-RUMOR
+410	BostonBombings	In absolute shock after waking up to the news this morning in Boston. #prayforboston	NON-RUMOR
+411	BostonBombings	Prayers goin out to everyone in Boston. 🙏 #prayforboston	NON-RUMOR
+412	BostonBombings	My thoughts are with the Boston runners	NON-RUMOR
+413	BostonBombings	Boston. My heart is with you.	NON-RUMOR
+414	BostonBombings	#prayforboston ❤ Keeping you in my thoughts &amp; prayers . . xoxo	NON-RUMOR
+415	BostonBombings	This is genuinely heartbreaking. :'( #prayforboston #bostonmarathon http://t.co/ZxiMKSrHjD	NON-RUMOR
+416	BostonBombings	This Boston situation is getting blown way out of proportion, it's actually getting annoying now.	NON-RUMOR
+417	BostonBombings	Liverpool Football Club tonight issued a message of support to the people of Boston - http://t.co/93YwyRv0dd	NON-RUMOR
+418	BostonBombings	Boston Police Confirm Explosions along the Marathon Route in the area of Boylston Street http://t.co/mTh8xqN9HY	NON-RUMOR
+419	BostonBombings	I'm so lost, what happened in Boston ?	NON-RUMOR
+420	BostonBombings	My heartfelt prayers go out to the city of Boston and everyone affected by today's incident. #PrayForBoston #bostonmarathon	NON-RUMOR
+421	BostonBombings	Thoughts and prayers to everyone in Boston	NON-RUMOR
+422	BostonBombings	#prayforboston I am so so sorry for this tragedy.... :(	NON-RUMOR
+423	BostonBombings	My thoughts and prayers are with everyone in Boston and their families. I'm shocked and saddened by everything I'm seeing. Devastating.	NON-RUMOR
+424	BostonBombings	Our prayers go out to Boston. Please send us your thoughts about this tragedy #PrayForBoston	NON-RUMOR
+425	BostonBombings	Speaker Boehner spoke to President Obama today around 5:30pmET regarding the tragedy in Boston http://t.co/sxKNBkIjfN	NON-RUMOR
+426	BostonBombings	All Athletes Retweet! #prayforboston http://t.co/HuT7MR9yOj	NON-RUMOR
+427	BostonBombings	What a tragedy... Boston, my heart goes out to you... #PrayforBoston	NON-RUMOR
+428	BostonBombings	So sad to hear what happened to Boston!! My prayers go out to all the victims and families ❤ #PrayForBoston	NON-RUMOR
+429	BostonBombings	Praying For Boston. #BostonMarathon My heart goes out to each &amp; every victim. This is senseless..	NON-RUMOR
+430	BostonBombings	Not gonna touch this Boston thing yet	NON-RUMOR
+431	BostonBombings	Sending all my love to those in Boston! Keep safe and saying prayers! #PrayForBoston Xxxxx	NON-RUMOR
+432	BostonBombings	WHAT THE HELL IS GOING ON IN BOSTON?!?!?!?! This is crazy... Who would do this??? #PrayForBoston	NON-RUMOR
+433	BostonBombings	#PrayForBoston RETWEET! WTF? http://t.co/dWwn2Knr7D	NON-RUMOR
+434	BostonBombings	Sending my thoughts to Boston, my heart is with you all! #PrayForBoston	NON-RUMOR
+435	BostonBombings	Remembering the 96 today,and always, thoughts are with their families &amp;friends.Thoughts and prayers are with everyone in Boston,stay safe	NON-RUMOR
+436	BostonBombings	Stay tough Boston!  Love ya!	NON-RUMOR
+437	BostonBombings	Our thoughts are with the brave people of Boston and their families tonight. Stay strong. #TheVoice	NON-RUMOR
+438	BostonBombings	Boston in our hearts and prayers. #UNITEDStatesofAmerica	NON-RUMOR
+439	BostonBombings	My heart &amp; prayers go out to those at the Boston Marathon today.	NON-RUMOR
+440	BostonBombings	"The American people will say a prayer for Boston tonight." —President Obama	NON-RUMOR
+441	BostonBombings	My thoughts and prayers are with everybody in Boston and the families that have been effected! #tragic	NON-RUMOR
+442	BostonBombings	Pray for Boston.	NON-RUMOR
+443	BostonBombings	President Obama: "The American people will say a prayer for Boston tonight."	NON-RUMOR
+444	BostonBombings	God be with Boston.	NON-RUMOR
+445	BostonBombings	Terrible incident in Boston.Our thoughts go to families of those innocent people who lost their lives and those who are injured	NON-RUMOR
+446	BostonBombings	Condolences to the families of the Boston bombing victims today... #PrayforBoston	NON-RUMOR
+447	BostonBombings	"The American people will say a prayer for #Boston tonight." -- @BarackObama	NON-RUMOR
+448	BostonBombings	President Obama: "Boston is a tough and resilient town. So are its people."	NON-RUMOR
+449	BostonBombings	President Obama: Boston is a tough and resilient town, so are its people. #7News	NON-RUMOR
+450	BostonBombings	"Boston is a tough and resilient town, so are its people." -President Obama #bostonmarathon	NON-RUMOR
+451	BostonBombings	Love &amp; Light Boston	NON-RUMOR
+452	BostonBombings	"All Americans stand with the people of Boston" indeed we do Mr. President.	NON-RUMOR
+453	BostonBombings	"We still do not know who did this or why and people shouldn't jump to conclusions," says President Obama http://t.co/KtZP7PzJw6 #Boston	NON-RUMOR
+454	BostonBombings	President Obama: “Boston is a tough and resilient town. So are its people.”	NON-RUMOR
+455	BostonBombings	A very sad day indeed in Boston.	NON-RUMOR
+456	BostonBombings	#PrayForBoston #EachOther #PrayForThisWorld &amp; if a prayer is a deep longing of the heart and soul, let it be there now. #Everywhere	NON-RUMOR
+457	BostonBombings	President Obama: "America will say a prayer for Boston tonight."	NON-RUMOR
+458	BostonBombings	Our sincere thoughts &amp; prayers go out to all those affected by today's tragedy at the Boston Marathon.	NON-RUMOR
+459	BostonBombings	Flags over @uscapitol being lowered to half-staff out of respect for the victims of Boston Marathon tragedy http://t.co/oOLCiZP8n3	NON-RUMOR
+460	BostonBombings	Obama: "Boston is a tough, resilient town and so are its people."	NON-RUMOR
+461	BostonBombings	President #Obama: "We'll find out who did this. We'll find out why they did this. http://t.co/gEG7mH3hhr #Boston	NON-RUMOR
+462	BostonBombings	Lets Pray for BOSTON.	NON-RUMOR
+463	BostonBombings	"The American people will say a prayer for Boston tonight ..." -President Obama addressing nation after Boston Marathon explosions.	NON-RUMOR
+464	BostonBombings	Obama: "The American people will say a prayer for Boston tonight" http://t.co/XyjByVFBBV	NON-RUMOR
+465	BostonBombings	🙏Our prayers are with Boston!! http://t.co/HZnZ9lq3DZ	NON-RUMOR
+466	BostonBombings	My thoughts, prayers and heart is with Boston.  Horrible day.	NON-RUMOR
+467	BostonBombings	We will be live at 8pm with the latest updates from Boston.	NON-RUMOR
+468	BostonBombings	#prayforboston my heart goes out goes out to yall !!  :/	NON-RUMOR
+469	BostonBombings	BOSTON #R5Family YOU ARE ALL IN OUR HEARTS! XOXOX	NON-RUMOR
+470	BostonBombings	Boston is a tough, resilient town and will prevail over this saddening tragedy! #PrayForBoston	NON-RUMOR
+471	BostonBombings	My heart is with Boston.	NON-RUMOR
+472	BostonBombings	Here's how you can help in Boston: http://t.co/qh61EzzXr4	NON-RUMOR
+473	BostonBombings	Boston, our love and our prayers are with you! #PrayersForBoston	NON-RUMOR
+474	BostonBombings	My Thoughts and prayers go out to the city of Boston	NON-RUMOR
+475	BostonBombings	On a day when I am afraid, I will trust you, God -- Psalm 56:3 #PrayForBoston	NON-RUMOR
+476	BostonBombings	At least 80 injured (including eight children) and two are dead in Boston terror attack: http://t.co/Gmc1eeqx3h	NON-RUMOR
+477	BostonBombings	Sending prayers to Boston	NON-RUMOR
+478	BostonBombings	"All Americans stand with the people of Boston." —President Obama	NON-RUMOR
+479	BostonBombings	"The American people will say a prayer for Boston tonight." —President Obama #prayforboston	NON-RUMOR
+480	BostonBombings	Hang in there, Boston. Show them how strong you are.	NON-RUMOR
+481	BostonBombings	Its a very sad state of affairs 😔 our thoughts are with you #prayforboston	NON-RUMOR
+482	BostonBombings	Times like these put things into perspective #prayforboston	NON-RUMOR
+483	BostonBombings	The people of Liverpool understand what people in Boston are going through. #solidarity	NON-RUMOR
+484	BostonBombings	Let me preach this for a minute though. #prayforboston http://t.co/9zpB8ifawl	NON-RUMOR
+485	BostonBombings	My heart is with Boston	NON-RUMOR
+486	BostonBombings	May the souls of the departed rest in peace. May God console the families and friends. May God help the injured heal. May God be in Boston.	NON-RUMOR
+487	BostonBombings	Just talked my son, who will attend Boston University in the fall. He can't wait. No fear.	NON-RUMOR
+488	BostonBombings	I simply can’t believe what happened in Boston. I am truly shocked and saddened. My thoughts and prayers are with all who were affected.	NON-RUMOR
+489	BostonBombings	Boston I'm thinking of u ❤❤❤	NON-RUMOR
+490	BostonBombings	I'm absolutely speechless😔 #prayforboston http://t.co/0xI1xgJJkp	NON-RUMOR
+491	BostonBombings	Our thoughts and prayers go out to Boston and everyone affected by this tragedy.  #PrayForBoston	NON-RUMOR
+492	BostonBombings	this is so true #prayforboston http://t.co/xVwVfmrcQa	NON-RUMOR
+493	BostonBombings	Full transcript of President Obama's statement on the Boston Marathon explosions: http://t.co/UFxNgK95q0	NON-RUMOR
+494	BostonBombings	Don't take people for granted. Show love and kindness today. #prayforboston	NON-RUMOR
+495	BostonBombings	PM: "The scenes from Boston are shocking and horrific - my thoughts are with all those who have been affected."	NON-RUMOR
+496	BostonBombings	What is wrong with this world? Lay all aside and pray for all of Boston, the victims, their families and friends! #NASCAR #fb	NON-RUMOR
+497	BostonBombings	Obama: 'All Americans Stand With The People Of Boston' http://t.co/5UMfmMd7Yh	NON-RUMOR
+498	BostonBombings	Pres Obama also did not use the words 'bomb" or 'bombings' in his statement on "the events in Boston" tonight.	NON-RUMOR
+499	BostonBombings	Praying for Boston!!!	NON-RUMOR
+500	BostonBombings	Violence only begets violence. #prayforboston	NON-RUMOR
+501	BostonBombings	God Bless Boston!!!!❤	NON-RUMOR
+502	BostonBombings	Dedicating my performance tonight to everyone back home in Boston &amp; anyone affected by this horrible tragedy... Love you all	NON-RUMOR
+503	BostonBombings	My heart going out to Boston.	NON-RUMOR
+504	BostonBombings	To everyone in Boston..my thoughts and prayers are with you. &lt;3	NON-RUMOR
+505	BostonBombings	Our hearts go out to the runners, spectators, volunteers, &amp; everyone affected by the events in Boston today. Lace up, &amp; run in their honor.	NON-RUMOR
+506	BostonBombings	"Even in my darkest hour through the sorrow &amp; the pain. I will sing. I will praise." Lord be w/ those hurting in Boston. #prayforBoston	NON-RUMOR
+507	BostonBombings	So sad about Boston! Cunts. No need!!	NON-RUMOR
+508	BostonBombings	Sending love to Boston. #prayforboston	NON-RUMOR
+509	BostonBombings	Wow this made me cry :( #prayforboston http://t.co/doUhuterua	NON-RUMOR
+510	BostonBombings	#prayforboston this makes u realize that life is too short. u should live evryday 2 the fullest and have no regrets &amp; no what ifs when u die	NON-RUMOR
+511	BostonBombings	Habs fan put the rivalry aside tonight. #prayforboston	NON-RUMOR
+512	BostonBombings	My thoughts are with the victims, the citizens, and the city of Boston today. Praying for all of those affected. #prayforboston	NON-RUMOR
+513	BostonBombings	BOSTON DO THE HARLEM SHAKE! http://t.co/7hEr15YUdk	NON-RUMOR
+514	BostonBombings	How you can help #Boston (please RT) http://t.co/42jb6GMk9H	NON-RUMOR
+515	BostonBombings	here's to the kids who can't believe how fucked up this world is. #prayforboston	NON-RUMOR
+516	BostonBombings	My TL right now PrayForBoston 🙏 BostonMarathon 🏃👣👣 Korea 👲💂 And some bitch talking about she lonely.	NON-RUMOR
+517	BostonBombings	Boston be safe!! My thoughts are with y'all!!! I'm speechless	NON-RUMOR
+518	BostonBombings	My Heart and prayers go out to all the people affected by the events in Boston today.	NON-RUMOR
+519	BostonBombings	Please be strong for the brave people of Boston. Give them strength through your supportive words and prayers.	NON-RUMOR
+520	BostonBombings	Why you gotta do that!? #prayforboston	NON-RUMOR
+521	BostonBombings	My heart goes out to the people of Boston on this terrible day!	NON-RUMOR
+522	BostonBombings	Pray 4 Boston 😔🙏	NON-RUMOR
+523	BostonBombings	Sweepstake anyone on how many Scousers will head to Boston to 'unite in grief' on 25th anniversary of Hillsborough next April 15th?	NON-RUMOR
+524	BostonBombings	Thoughts &amp;prayers for everyone in Boston,I honestly can not believe what I'm seeing on the news.... I'm deeply saddened	NON-RUMOR
+525	BostonBombings	Such a senseless and tragic day. My family and I send our love to our beloved and resilient Boston.	NON-RUMOR
+526	BostonBombings	God bless America. #bostonmarathon http://t.co/mvqByhWydF	NON-RUMOR
+527	BostonBombings	Heartbroken and devastated by this awful event in Boston... All my thoughts, strenght and prayers go to the US... http://t.co/V4pIj59oSJ	NON-RUMOR
+528	BostonBombings	If you're tweeting #prayforboston actually pray, God doesn't answer tweets	NON-RUMOR
+529	BostonBombings	Thoughts &amp; prayers go out to Boston.	NON-RUMOR
+530	BostonBombings	Beautiful Boston Sunset Tonight After our Darkest Day - "Say a prayer for Boston tonight"  (pic @berkie1) http://t.co/qoyRxgmhs4	NON-RUMOR
+531	BostonBombings	Friends, tell somebody how much you love them today. Never take one day for granted. Love you all! #prayforboston	NON-RUMOR
+532	BostonBombings	I'm all about #Boston today ... #fromaNewYorker stay strong, we got your back	NON-RUMOR
+533	BostonBombings	Tonight's Finale: A somber Spring night in Boston. http://t.co/eXiozObOKR	NON-RUMOR
+534	BostonBombings	Couldn't have said it any better myself.. #prayforboston http://t.co/WMZ5BnWcGA	NON-RUMOR
+535	BostonBombings	My thoughts and prayers go out to the people of Boston .	NON-RUMOR
+536	BostonBombings	Keep on running on, Boston. #BostonMarathon	NON-RUMOR
+537	BostonBombings	No God, no peace. Know God, know peace. #PrayForBoston	NON-RUMOR
+538	BostonBombings	We love you Boston.	NON-RUMOR
+539	BostonBombings	Navy sends bomb team to Boston to assist with explosion investigation: http://t.co/o4uiaVEJkO -CC	NON-RUMOR
+540	BostonBombings	President Obama's full remarks: 'The American people will say a prayer for Boston tonight.' | http://t.co/fxQKKDj2ek	NON-RUMOR
+541	BostonBombings	This is the young girl who has been killed in Boston, running for the lives of others. RIP Angel #PrayForBoston 🌹❤😪 http://t.co/A5yaGg3tOc	NON-RUMOR
+542	BostonBombings	My thoughts and prayers are with the people of Boston. Shak	NON-RUMOR
+543	BostonBombings	this is so sad but so true #prayforboston http://t.co/nA626aqj9c	NON-RUMOR
+544	BostonBombings	Praying for you Boston. Our hearts are with you.	NON-RUMOR
+545	BostonBombings	I just don't understand... #prayforBoston	NON-RUMOR
+546	BostonBombings	.@nxthompson: The meaning of the Boston Marathon: http://t.co/mq9AjiQYmE	NON-RUMOR
+547	BostonBombings	Please join the Philadelphia Flyers and the Montreal Canadiens in a moment of silence for today’s victims in Boston.	NON-RUMOR
+548	BostonBombings	The Prime Minister's statement on the Boston Marathon. http://t.co/kZdof72ikd TeamJG	NON-RUMOR
+549	BostonBombings	my heart goes out to boston and everywhere	NON-RUMOR
+550	BostonBombings	#PrayForBoston - So sad, yet so true. Spread the word! Don't stop retweeting. #HeartsOutToBoston http://t.co/oYbNu7K0yB	NON-RUMOR
+551	BostonBombings	Just heard some terrible news...my thoughts &amp; prayers go out to the victims, families &amp; friends of today's tragedy in Boston. #PrayforBoston	NON-RUMOR
+552	BostonBombings	If ever Boston needed a Batman, it was today.	NON-RUMOR
+553	BostonBombings	My thoughts and prayers are with everyone in Boston	NON-RUMOR
+554	BostonBombings	The Black Eyed Peas - Where Is The Love? #prayforboston http://t.co/IxjtbeXClo	NON-RUMOR
+555	BostonBombings	ALL MY THOUGHTS AND PRAYERS TO EVERYONE IN BOSTON. GOD BLESS Y'ALL AND THANK YOU TO ALL THE RESCUE POLICE AND FIREMAN AND NURSES AND DOCTORS	NON-RUMOR
+556	BostonBombings	More evil today in Boston! FUCK THE DEVIL IN HIS ASS WITH THE LAS VEGAS STRATOSPHERE!	NON-RUMOR
+557	BostonBombings	Thank you to the firemen, policemen, doctors, nurses, and everyone who helped in Boston today. #PrayForBoston	NON-RUMOR
+558	BostonBombings	My thoughts and prayers are with the people of Boston.	NON-RUMOR
+559	BostonBombings	Deeply saddened about today's horrible events. #PrayForBoston &amp; all those affected.	NON-RUMOR
+560	BostonBombings	Feeling helpless. Remember to never miss an opportunity to recognize and express your love to those you care about. #prayforboston	NON-RUMOR
+561	BostonBombings	stay positive out there #prayforboston	NON-RUMOR
+562	BostonBombings	The Council on American-Islamic Relations calls on Muslims in #Boston to donate blood to "show of support for the bomb attack victims."	NON-RUMOR
+563	BostonBombings	#Boston my thoughts and prayers are with you. I'm deeply sorry for this tragedy... #prayforboston	NON-RUMOR
+564	BostonBombings	If you're tweeting #prayforboston actually pray, God doesn't answer tweets	NON-RUMOR
+565	BostonBombings	RIP to this little girl that died in the explosion today.🙏😩 #PrayForBoston so sad. http://t.co/8WtcUV7E4s	NON-RUMOR
+566	BostonBombings	Stay STRONG Boston...our THOUGHTS and PRAYERS are with you. #BostonMarathon #Explosions http://t.co/hlUCp9MQiB	NON-RUMOR
+567	BostonBombings	Im Finish Gettin High For Boston man Prayers and love Go's out to them 😪	NON-RUMOR
+568	BostonBombings	So sad what happened in Boston... My prayers go out to the victims and their families... Sad Day 😢	NON-RUMOR
+569	BostonBombings	can't believe i was just in Boston. heartbreaking news. bout to play here in DC.. this show is dedicated to the lives lost &amp; injured	NON-RUMOR
+570	BostonBombings	As a frequent visitor with family and friends in Boston, I am sending my thoughts and prayers to that wonderful city and its people.	NON-RUMOR
+571	BostonBombings	To all CHC members &amp; friends studying, working or living in Boston, God's love &amp; peace is upon you. Praying for you all!	NON-RUMOR
+572	BostonBombings	Delete your twitter "@RealSeanDo: Im praying for Kobe, Boston can wait"	NON-RUMOR
+573	BostonBombings	My thoughts and prayers are with everyone in Boston.  So sad.  #prayforboston	NON-RUMOR
+574	BostonBombings	Try and get some sleep one and all, but continue to #prayforboston.	NON-RUMOR
+575	BostonBombings	So sad to wake up and hear about bombings in Boston! My heart goes out to all effected! Stay strong &lt;3 :'( #BostonMarathon #PrayForBoston	NON-RUMOR
+576	BostonBombings	My heart aches for Boston.	NON-RUMOR
+577	BostonBombings	Unite tomorrow &amp; show the world runners stand together. Wear a race shirt. If you dress up for work, wear Boston blue/yellow. #RunChat	NON-RUMOR
+578	BostonBombings	Why can't we all live together in peace! No more pain, suffering and hurt! I'm shattered to hear there are bombings #PrayForBoston	NON-RUMOR
+579	BostonBombings	Everyone should do this tomorrow, retweet to spread the word! #prayforboston #BostonMarathon http://t.co/n6Ew7MnWlg	NON-RUMOR
+580	BostonBombings	Our thoughts are with everyone in Boston.	NON-RUMOR
+581	BostonBombings	Sovereign in my deepest cry/ with me in the dark/ with me at the dawn #prayforboston	NON-RUMOR
+582	BostonBombings	this picture really opens my eyes #PrayForBoston http://t.co/8tcRH2qSW4	NON-RUMOR
+583	BostonBombings	Thoughts go to all those hurt in Boston.. Tragic. Xxx	NON-RUMOR
+584	BostonBombings	So sad to hear about Boston. Sending love .	NON-RUMOR
+585	BostonBombings	#prayforboston and #prayforiraq too. They were also bombed today leaving 30+ people killed and hundreds injured.	NON-RUMOR
+586	BostonBombings	Police put on high alert across U.S. after Boston Marathon attack http://t.co/opwRz4Y9Gf	NON-RUMOR
+587	BostonBombings	Hawks fans spoke for an entire country by their response to the anthem in Chicago. They were loud enough for everyone in Boston to hear.	NON-RUMOR
+588	BostonBombings	Statement from the Boston Athletic Association Monday, April 15, 2013 8:00 p.m. ET The Boston Athletic... http://t.co/LrhGOvd2Gk	NON-RUMOR
+589	BostonBombings	Praying for Boston! #Sad	NON-RUMOR
+590	BostonBombings	Cowards: This is BOSTON. We fight injustice, promote enlightenment, and celebrate athletic achievement. You changed none of that.	NON-RUMOR
+591	BostonBombings	Prayers are with everyone in Boston today.	NON-RUMOR
+592	BostonBombings	Tuesday's game between the Pacers and Celtics in Boston has been cancelled, NBA announces. It will not be rescheduled.	NON-RUMOR
+593	BostonBombings	May the Force be with you Boston.	NON-RUMOR
+594	BostonBombings	This is the 8 year old girl that died in Boston today. I am absolutely heartbroken #prayforboston http://t.co/Ro90pPU37z"	NON-RUMOR
+595	BostonBombings	#rip little angel 👼 #Prayforboston http://t.co/9PCpkdjMRA	NON-RUMOR
+596	BostonBombings	I will fight for you America.  Fuck terrorists.  Boston and everywhere else in the states, I love you.… http://t.co/UjoXBsvq3s	NON-RUMOR
+597	BostonBombings	My thoughts go out to anyone affected in Boston! Terrible news	NON-RUMOR
+598	BostonBombings	At least 141 injured (17 in critical condition), two dead in Boston terror attack: http://t.co/Gmc1eeqx3h	NON-RUMOR
+599	BostonBombings	Just heard of the terrible news in Boston, so so sad. Xxx	NON-RUMOR
+600	BostonBombings	Heartbroken and deeply saddened over the tragedy in Boston today. I am sending prayers and love to all affected. #PrayForBoston	NON-RUMOR
+601	BostonBombings	Admiration , love and prayers for the great city of BOSTON	NON-RUMOR
+602	BostonBombings	Give love, thoughts, prayers to Boston. Fear is merely the absence of love. Let love guide us, protect us, heal us. This I pray.	NON-RUMOR
+603	BostonBombings	#prayforboston stay strong, stay strong.	NON-RUMOR
+604	BostonBombings	29 Reason To Love Boston http://t.co/2xydohDkeU	NON-RUMOR
+605	BostonBombings	BREAKING: Officials found five other explosive devices that did not detonate.  #PrayForBoston	NON-RUMOR
+606	BostonBombings	Tuesday's Pacers-Celtics game in Boston has been canceled and will not be rescheduled.	NON-RUMOR
+607	BostonBombings	IRS gives Boston-area taxpayers more time to file taxes without worry http://t.co/KwNNlfXPMh #TaxDay	NON-RUMOR
+608	BostonBombings	Thinking about the city of Boston right now... http://t.co/hPhz5jGnTV	NON-RUMOR
+609	BostonBombings	My heart goes out to all the family's in Boston tonight ❤ George x	NON-RUMOR
+610	BostonBombings	My heart is with everyone at the Boston Marathon, their friends and family. #PrayForBoston	NON-RUMOR
+611	BostonBombings	Prayers for Boston...	NON-RUMOR
+612	BostonBombings	Sending thoughts, prayers &amp; love out 2 the families affected in today's #BostonMarathon tragedy. #PrayForBoston	NON-RUMOR
+613	BostonBombings	So sad for all those in pain #prayforboston	NON-RUMOR
+614	BostonBombings	Prayers up for Boston..	NON-RUMOR
+615	BostonBombings	If you need urgent Boston accommodations, or can provide them: http://t.co/PTyZhmwtYj	NON-RUMOR
+616	BostonBombings	My thoughts are with Boston today. Horrible.	NON-RUMOR
+617	BostonBombings	the people of Boston are strong and resilient, they will get through this and the rest of the country has you in their prayers as do I.	NON-RUMOR
+618	BostonBombings	Oakland A's fans have organized to change tonight's chant from "Let's go Oakland" to "Let's go Boston".	NON-RUMOR
+619	BostonBombings	This deserves endless retweets. #PrayForBoston	NON-RUMOR
+620	BostonBombings	Our Hearts go out to the people of Boston - our thoughts are with you.	NON-RUMOR
+621	BostonBombings	Praying for Boston tonight this is my home going on 10 years I feel the pain in my heart 🙏🙏🙏	NON-RUMOR
+622	BostonBombings	Please keep all the victims of the Boston attack &amp; their families in your prayers. May God help them find peace &amp; protection (Isaiah 41:10)	NON-RUMOR
+623	BostonBombings	My Prayers go out to all affected by the terrible bombings in Boston! #PrayforBoston #Boston #BostonMarathon http://t.co/caeBJn4Jtq	NON-RUMOR
+624	BostonBombings	Sending all my love to the people of Boston and those affected by this horrific tragedy. My thoughts and prayers are with you	NON-RUMOR
+625	BostonBombings	Sending love to Boston. http://t.co/rpgYtypR4f	NON-RUMOR
+626	BostonBombings	RT if you need to smile today.  @joelpiper #Smile #Prayforboston http://t.co/46MKJ8SeVf	NON-RUMOR
+627	BostonBombings	Sending love to Everyone in Boston.	NON-RUMOR
+628	BostonBombings	#PrayForBoston - So sad, yet so true. Spread the word! Don't stop retweeting. #HeartsOutToBoston http://t.co/C4xz0eI1BW	NON-RUMOR
+629	BostonBombings	[WARNING: GRAPHIC IMAGE]  Nicole Gross of Charlotte in shock near Boston finish: (Credit: John Tlumacki/Boston Globe) http://t.co/owNkOCk1sF	NON-RUMOR
+630	BostonBombings	Sending my love and prayers to everyone in Boston.	NON-RUMOR
+631	BostonBombings	This is why #Bostonmarathon is so special &amp; why my heart's breaking.  I wrote this this morning. http://t.co/TOL9EWf4LX #runchat	NON-RUMOR
+632	BostonBombings	Sending love to everyone in Boston.	NON-RUMOR
+633	BostonBombings	So sad I am at loss for words. My heart goes out to everyone in Boston.   #PrayForBoston	NON-RUMOR
+634	BostonBombings	Thoughts and prayers go to all those in Boston	NON-RUMOR
+635	BostonBombings	Tweeting through Teen Mom 2 just won't be the same tonight. Boston is on my mind and in my heart.	NON-RUMOR
+636	BostonBombings	Ex-Patriots OL Joe Andruzzi lends hand at Boston Marathon http://t.co/WpQKjtWPmj	NON-RUMOR
+637	BostonBombings	.@PattonOswalt's Powerful Boston Marathon Post Inspires on @Facebook  http://t.co/cWuk2wnjSr	NON-RUMOR
+638	BostonBombings	@okkobo That's soo scary!! Why are you in Boston?	NON-RUMOR
+639	BostonBombings	Boston tragedy delays immigration bill: http://t.co/Jp3nS55hwD -CC	NON-RUMOR
+640	BostonBombings	Woke up to the dreadful news of the Boston Marathon :( So sad.	NON-RUMOR
+641	BostonBombings	stop I'm crying😥💔 #PrayForBoston http://t.co/6Xt7JG7stK	NON-RUMOR
+642	BostonBombings	RIP to the 8 year old who lost his life today. #prayforboston	NON-RUMOR
+643	BostonBombings	RT to show your support for Boston! #BostonMarathon http://t.co/22xuOcAJOS	NON-RUMOR
+644	BostonBombings	My prayers and thoughts are with those who have loved ones in Boston. God bless you #PrayforBoston	NON-RUMOR
+645	BostonBombings	I feel so sorry. #prayforboston	NON-RUMOR
+646	BostonBombings	This guy was gonna propose to his girlfriend at the finish line 😔😢 #prayforboston http://t.co/rcK8SY1WG3	NON-RUMOR
+647	BostonBombings	R.I.P this 8 year old girl who died in Boston RT 😔🙏 http://t.co/Imgu6aiBek	NON-RUMOR
+648	BostonBombings	Boston is my my heart.	NON-RUMOR
+649	BostonBombings	Phillies OF Ben Revere put a special message for Boston on his glove &amp; paid tribute with a spectacular catch » http://t.co/2qfOpLPewq	NON-RUMOR
+650	BostonBombings	A message from New York to Boston projected on Brooklyn Academy of Music http://t.co/F4kNyjMPde http://t.co/clTtVUrIlx	NON-RUMOR
+651	BostonBombings	#PrayForBoston My heart is with you all.	NON-RUMOR
+652	BostonBombings	#Boston #Patriots RT: @ZoltanMesko: @Andruzzi63 you are a class act, there is no question. I love you. http://t.co/9s12ZLgcZC	NON-RUMOR
+653	BostonBombings	If you are a parent, you will appreciate what @SteveRushin wrote tonight about Boston: http://t.co/eiIC5JbXMY	NON-RUMOR
+654	BostonBombings	Boston friends and families you are in my heart.	NON-RUMOR
+655	BostonBombings	I can't believe what happened in Boston!!!!! #Prayforboston	NON-RUMOR
+656	BostonBombings	Prayers, love and healing thoughts are in Boston!	NON-RUMOR
+657	BostonBombings	My TL right now PrayForBoston 🙏 BostonMarathon 🏃👣👣 Korea 👲💂 And some bitch talking about she lonely	NON-RUMOR
+658	BostonBombings	Dear @WBCSays, I wouldn't fuck with the people of Boston when they're mad.  #BostonBeatDown	NON-RUMOR
+659	BostonBombings	A message from New York to Boston projected on Brooklyn Academy of Music http://t.co/LzLKtpHYOr http://t.co/ImKcIBPNas	NON-RUMOR
+660	BostonBombings	1773 - Boston Tea Party. 2013 - Boston TNT Party.	NON-RUMOR
+661	BostonBombings	Boston, the Force is with you.	NON-RUMOR
+662	BostonBombings	Brooklyn loves Boston (photo: @stopmotionsolo) http://t.co/MqzjC5TXq6	NON-RUMOR
+663	BostonBombings	Recalling a "special day" in Boston with my daughter, at the end of this terrible day. http://t.co/mPsHyZM4jn via @SINow	NON-RUMOR
+664	BostonBombings	Sending thoughts and prayers to the people of Boston.	NON-RUMOR
+665	BostonBombings	A message from New York to Boston projected on Brooklyn Academy of Music http://t.co/77Ij4ZqHMm http://t.co/rXMOjCUNog /via @BuzzFeed	NON-RUMOR
+666	BostonBombings	Heartless American at its finest. #prayforboston http://t.co/ebHBlqsHbW	NON-RUMOR
+667	BostonBombings	Shine your light. We love you Boston #prayforboston http://t.co/NjQEkgReKn	NON-RUMOR
+668	BostonBombings	My prayers goes out to Boston smh this is a sick world. #prayforBoston.	NON-RUMOR
+669	BostonBombings	"Michelle &amp; I send our deepest thoughts &amp; prayers to the families of the victims" -President Obama: http://t.co/La78RkjYg0 #prayforboston	NON-RUMOR
+670	BostonBombings	Praying for Boston and all the innocent victims much love and prayer. HH	NON-RUMOR
+671	BostonBombings	The @JFKLibrary will be closed Tuesday, April 16. Thank you for all of your messages and concern. #boston	NON-RUMOR
+672	BostonBombings	Saddest thing I have ever read #PrayForBoston http://t.co/6MOdL4Fcoi	NON-RUMOR
+673	BostonBombings	i'm wicked sad, guy. #boston	NON-RUMOR
+674	BostonBombings	I'm saying a prayer tonight for everyone in Boston.  Xod	NON-RUMOR
+675	BostonBombings	“@metrauhl: Saddest thing I have ever read #PrayForBoston http://t.co/Qk8pjoruqe” que paso en Boston?	NON-RUMOR
+676	BostonBombings	To the companies saying they will donate to the Boston marathon victims for every retweet: you make me sick. Just give.	NON-RUMOR
+677	BostonBombings	#prayforBoston y'all-&amp;just remember no matter what our differences are #unitedwestand &amp;we always will. They will never break our spirit🇺🇸	NON-RUMOR
+
