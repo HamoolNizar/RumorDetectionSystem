@@ -78,12 +78,12 @@ class TrainingEngine():
         va_acc = accuracy_score(vaY, np.argmax(va_logits, 1)) * 100.
         logger.log(n_epochs=n_epochs, n_updates=n_updates, tr_cost=tr_cost, va_cost=va_cost, tr_acc=tr_acc,
                    va_acc=va_acc)
-        print('%d %d %.3f %.3f %.2f %.2f' % (n_epochs, n_updates, tr_cost, va_cost, tr_acc, va_acc))
+        print('Epochs : % d \nBatch Size : % d \nTraining Cost : % .3f \nValidation Cost : % .3f \nTraining Accuracy : % .2f \nValidation Accuracy : % .2f' % (n_epochs, n_updates, tr_cost, va_cost, tr_acc, va_acc))
         if submit:
             score = va_acc
             if score > best_score:
                 best_score = score
-                path = os.path.join(save_dir, desc, 'state_of_module')
+                path = os.path.join(save_dir, desc, 'learned_parameters')
                 torch.save(dh_model.state_dict(), make_path(path))
 
     def predict(self, dataset, submission_dir):
@@ -132,15 +132,18 @@ label_decoders = {
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--desc', type=str, help="Description", default='veracity/')
-    parser.add_argument('--dataset', type=str, default='veracity')
+    # parser.add_argument('--dataset', type=str, default='veracity')
+    parser.add_argument('--dataset', type=str)
     parser.add_argument('--log_dir', type=str, default='log/')
     parser.add_argument('--save_dir', type=str, default='save/')
-    parser.add_argument('--data_dir', type=str, default='data/')
+    # parser.add_argument('--data_dir', type=str, default='data/')
+    parser.add_argument('--data_dir', type=str)
     parser.add_argument('--submission_dir', type=str, default='submission/')
     parser.add_argument('--submit', action='store_true', default=True)
     parser.add_argument('--analysis', action='store_true', default=True)
     parser.add_argument('--seed', type=int, default=42)
-    parser.add_argument('--n_iter', type=int, default=3)
+    # parser.add_argument('--n_iter', type=int, default=3)
+    parser.add_argument('--n_iter', type=int)
     parser.add_argument('--n_batch', type=int, default=8)
     parser.add_argument('--max_grad_norm', type=int, default=1)
     parser.add_argument('--lr', type=float, default=6.25e-5)
@@ -260,7 +263,7 @@ if __name__ == '__main__':
     if dataset != 'stsb':
         trYt = trY
     if submit:
-        path = os.path.join(save_dir, desc, 'state_of_module')
+        path = os.path.join(save_dir, desc, 'learned_parameters')
         torch.save(dh_model.state_dict(), make_path(path))
     best_score = 0
     for i in range(args.n_iter):
@@ -269,7 +272,7 @@ if __name__ == '__main__':
         n_epochs += 1
         training_engine.log(save_dir, desc)
     if submit:
-        path = os.path.join(save_dir, desc, 'state_of_module')
+        path = os.path.join(save_dir, desc, 'learned_parameters')
         dh_model.load_state_dict(torch.load(path))
         training_engine.predict(dataset, args.submission_dir)
         prediction = Prediction()
