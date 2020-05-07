@@ -83,13 +83,13 @@ for (my $i = 0; $i < @guessLns; $i+=1) {
 	my $goldLbl = $goldArr[3];
 
 	if(!defined($catsHash{$goldLbl})){
-		print STDERR sprintf("\nError: the stance label \"%s\" in the following line of the gold-standard file is invalid:\n\n%s\n\n",$goldLbl, $goldLn);
+		print STDERR sprintf("\nError: the veracity label \"%s\" in the following line of the gold-standard file is invalid:\n\n%s\n\n",$goldLbl, $goldLn);
 		print STDERR "Correct labels in gold-standard file can be: RUMOR, NON-RUMOR, or UNKNOWN (case sensitive). \n";
 		die "\n";
 	}
 
 	if(!defined($catsHash{$guessLbl})){
-		print STDERR sprintf("\nError: the stance label \"%s\" in the following line of the prediction file is invalid:\n\n%s\n\n",$guessLbl, $guessLn);
+		print STDERR sprintf("\nError: the veracity label \"%s\" in the following line of the prediction file is invalid:\n\n%s\n\n",$guessLbl, $guessLn);
 		print STDERR "Correct labels in predication file can be: RUMOR, NON-RUMOR, or UNKNOWN (case sensitive). \n";
 		die "\n";
 	}
@@ -155,6 +155,6 @@ sub printUsage {
 	print STDERR "goldFile:  file containing gold standards;\nguessFile: file containing your prediction.\n\n";
 	print STDERR "These two files have the same format:\n";
 	print STDERR "ID<Tab>Target<Tab>Tweet<Tab>Veracity\n";
-	print STDERR "Only stance labels may be different between them!\n";
+	print STDERR "Only veracity labels may be different between them!\n";
 	print STDERR "---------------------------\n";
 }
