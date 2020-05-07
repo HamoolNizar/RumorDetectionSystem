@@ -218,9 +218,7 @@ class MultipleChoiceHead(nn.Module):
 
 
 class ClfHead(nn.Module):
-    """Classification Head for the transformer
-
-    TODO: test this class."""
+    """Classification Head for the transformer"""
 
     def __init__(self, clf_token, cfg, n_class):
         super(ClfHead, self).__init__()
@@ -243,9 +241,7 @@ class ClfHead(nn.Module):
 
 
 class SimilarityHead(nn.Module):
-    """ Similarity Head for the transformer
-
-        TODO: test this class."""
+    """ Similarity Head for the transformer """
 
     def __init__(self, clf_token, cfg):
         super(SimilarityHead, self).__init__()

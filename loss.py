@@ -66,4 +66,3 @@ class ClassificationLossCompute:
             self.opt.zero_grad()
         return train_loss.item()
 
-# TODO Implement a LossCompute class for similiraty tasks.

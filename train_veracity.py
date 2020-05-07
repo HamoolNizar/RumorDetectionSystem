@@ -78,7 +78,7 @@ class TrainingEngine():
         va_acc = accuracy_score(vaY, np.argmax(va_logits, 1)) * 100.
         logger.log(n_epochs=n_epochs, n_updates=n_updates, tr_cost=tr_cost, va_cost=va_cost, tr_acc=tr_acc,
                    va_acc=va_acc)
-        print('Epochs : % d \nBatch Size : % d \nTraining Cost : % .3f \nValidation Cost : % .3f \nTraining Accuracy : % .2f \nValidation Accuracy : % .2f' % (n_epochs, n_updates, tr_cost, va_cost, tr_acc, va_acc))
+        print('Epochs : % d \nNumber of Batches : % d \nTraining Cost : % .3f \nValidation Cost : % .3f \nTraining Accuracy : % .2f \nValidation Accuracy : % .2f' % (n_epochs, n_updates, tr_cost, va_cost, tr_acc, va_acc))
         if submit:
             score = va_acc
             if score > best_score:

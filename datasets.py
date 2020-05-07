@@ -9,7 +9,7 @@ from tqdm import tqdm
 from sklearn.utils import shuffle
 from sklearn.model_selection import train_test_split
 
-seed = 3535999445
+seed = 2412798343
 
 
 class DataLoader():
@@ -61,8 +61,6 @@ class DataLoader():
 if __name__ == "__main__":
     ## Test
     data_dir = "./data"
-
-    # (trX, trY), (vaX, vaY), teX = veracity(data_dir)
 
     dataLoader = DataLoader()
     (trX, trY), (vaX, vaY), teX = dataLoader.veracity(data_dir)
