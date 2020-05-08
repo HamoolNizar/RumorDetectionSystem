@@ -39,7 +39,5 @@ if __name__ == "__main__":
     prediction.output_predictions(test_path, pred_path, out_path, topic)
 
 # System Parameters
-# ./data/SemEval2016-Task6-subtaskA-testdata.txt
 # ./data/RumorsAndNonRumors-TestingData.txt
-# ./submission/stance.tsv
 # ./results/predicted_default.txt
